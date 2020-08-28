@@ -1,2 +1,3 @@
 Lana Wolfe
 sample sentence
+git clone [https://github.com/lanawolfe/exerGitPractice.git]
